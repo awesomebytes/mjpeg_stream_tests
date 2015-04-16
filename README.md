@@ -34,7 +34,7 @@ http://localhost:1337/mjpeg_stream
 
 You should see something like this:
 
-![Screenshot of the stream and the viewer working](https://raw.githubusercontent.com/awesomebytes/gazebo_ros_light/master/working_screenshot.png)
+![Screenshot of the stream and the viewer working](https://raw.githubusercontent.com/awesomebytes/mjpeg_stream_tests/master/working_screenshot.png)
 
 
 Tested with an ipcam and a video stream from the ROS package web_video_server from a simulated robot.
